@@ -1,0 +1,10 @@
+{
+  "name": "ACT2",
+  "short_name": "ACT2",
+  "description": "歌唱を遊びに変えるACT2 β版",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090911",
+  "theme_color": "#8138ff",
+  "orientation": "portrait"
+}
